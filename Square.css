@@ -1,0 +1,9 @@
+.Square{
+  margin: 20px;
+  position: relative;
+}
+.Squarectrl{
+  position: absolute;
+  width: 200px;
+  right: -200px;
+}
